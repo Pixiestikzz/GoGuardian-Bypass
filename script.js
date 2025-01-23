@@ -10,4 +10,5 @@ document.getElementById('url').addEventListener('keyup', function(event) {
         event.preventDefault();
         generateIframe();
     }
-});
+});https://discord.com/
+
